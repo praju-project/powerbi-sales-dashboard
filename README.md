@@ -13,5 +13,5 @@ This project analyzes AtliQ Hardware's sales data using SQL and Power BI to prov
 - Sales contribution by region
 - Customer segmentation
 
-  
-
+  ## 🔗 Download File
+- https://drive.google.com/file/d/1m8-tMFzbDq7ubtYCJ1gWsMQqrxSHTpZD/view?usp=drive_link
